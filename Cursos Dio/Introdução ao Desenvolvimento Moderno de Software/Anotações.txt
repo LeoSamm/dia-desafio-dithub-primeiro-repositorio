@@ -1,0 +1,17 @@
+O desenvolvimento moderno de software, possue alguns tipos de desenvolvimento:
+-Sistema Desktop - Um Software que deverá ser instalado no computador, por um arquivo executavel
+-Sistema Web - Um Software que poderam ser acessado via Web,  de qualquer dispositivo
+
+Ja as aplicações moveis são feitos nas plataformas ou Android ou IOS, que ficaram disponiveis na Google Play
+ou na App Store respectivamente por forma de aplicativos
+
+Existem varios profissionais envolvidos em uma equipe de desenvolvimento, são eles:
+UX Desingner
+UI Desingner
+Desenvolvedor Front End
+Desenvolvedor Back End
+Desenvolvedor Full Stack
+  -Esses desenvolvedores podem utilizer FrameWorks, que sao facilitadores, com formulas ja prontas
+Profissional de Quality Assurance
+Profissional de Cloud Computing
+ 

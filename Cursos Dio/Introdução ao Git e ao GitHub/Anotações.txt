@@ -1,0 +1,6 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminalo extendido para otimizar o uso do Git
+
+O GitHub funciona como um portifolio online de projetos, la você pode expor seus projetos para outros usuarios,
+que podem ate ajudar em seu codigo, e para empresas que podem ver seus desenvolvimento em relação a seus 
+projetos anteriores.

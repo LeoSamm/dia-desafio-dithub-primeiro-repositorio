@@ -1,0 +1,13 @@
+- Pensamento computacional
+ O Pensamento computacional é divido em 4 pilares, Decompisição / Padrões / Abstração / Algoritmos, e ele é uma
+habilidade que pode ser desenvolvida para resolver problemas de forma mais eficiente, e ele pode se aplicar
+a tudo, não somente para a area da tecnologia
+
+- Sobre o basico de programaçãos
+ Existem algumas tecnicas de programação, que são elas: Técnica Linear, Técnica Estrutuada e a Técnica Modular
+Conceitos importantes aprendidos: Variavel, Tipos de Dados, Instruções primitivas, Estruturas condicionais,
+Estruturas de repetiçao, Vatores e Matrizes, Funções e Intruções de entrada/saída
+
+ Linguagem de programação é um conjunto de regras gramaticais usada para escrever programas de computador,
+fazendo com que o coputador realize determinadas tarefas, basicamente é o que utilizamos para o computador 
+entenda e faça o que queremos
